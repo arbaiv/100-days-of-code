@@ -2,18 +2,38 @@
 
 ### Day 1: September 15, 2022
 
+**Today's Progress**: Started the Interactive Pricing Component challenge from frontend mentor. Added variables and some utility classes.
+
+**Thoughts:** Need to improve the time of setting up the utilities. Will work on setting up the design tomorrow.
+
+**Link to work:** 
+    [Interactive Pricing Component](https://github.com/arbaiv/interactive-pricing-component-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1570440877658755079)
+
+
+### Day 2: September 16, 2022
+
 **Today's Progress**: 
 
-**Thoughts:** 
+**Thoughts**: 
 
-**Link to work:** [](http://www.example.com)
+**Link(s) to work**: []()
 
-### Day 0: September 16, 2022
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 3: September 17, 2022
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 4: September 18, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
 
