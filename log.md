@@ -23,11 +23,13 @@
 
 ### Day 3: September 17, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Added a custom range slider to the project.
 
-**Thoughts**: 
+**Thoughts**: Need to add functionality to the slider tomorrow and fix the slider shadow bug.
 
-**Link(s) to work**: []()
+**Link(s) to work**: 
+    [Interactive Pricing Component](https://github.com/arbaiv/interactive-pricing-component-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1571171112188518401?s=20&t=P13N582tjqES2Uh2KwEJHg)
 
 
 ### Day 4: September 18, 2022
@@ -38,3 +40,11 @@
 
 **Link(s) to work**: []()
 
+
+### Day 5: September 19, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
