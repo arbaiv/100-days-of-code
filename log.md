@@ -49,11 +49,15 @@
 
 ### Day 5: September 19, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Added accessibility to range slider & toggle button. Completed the interactive pricing component challenge.
 
-**Thoughts**: 
+**Thoughts**: Need to learn more about making interactive elements accessible. 
 
-**Link(s) to work**: []()
+**Link(s) to work**: 
+    [Interactive Pricing Component](https://github.com/arbaiv/interactive-pricing-component-challenge)
+    [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-pricing-component-with-slider-accessibility-6aCxzUsT_s)
+    [Twitter](https://twitter.com/arbaiv/status/1571903959761309696)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_interactive-pricing-component-activity-6977671472261591040-RPrM?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 6: September 20, 2022
