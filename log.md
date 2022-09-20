@@ -63,13 +63,40 @@
 ### Day 6: September 20, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} Revised notes on Constraint Validation API.
+        {} Learned about variable fonts and how to use them
+
+    Built:
+        {} Started the Notification Page challenge by frontend mentor
+
+**Thoughts**: Will start working on this project from tomorrow. It will be an amazing to build a live notification app.
+
+**Link(s) to work**: 
+    [Notification Page](https://github.com/arbaiv/notification-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1572256533832142848?s=20&t=mpVHAIJgsTA9EEnqXDsa9g)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6978022521753260033-NdzS?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 7: September 21, 2022
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: []()
 
 
-### Day 6: September 21, 2022
+### Day 8: September 22, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 9: September 23, 2022
 
 **Today's Progress**: 
 
