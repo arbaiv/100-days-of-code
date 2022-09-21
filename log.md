@@ -81,10 +81,21 @@
 ### Day 7: September 21, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} How to find the highest & lowest numbers in an array
+        {} Js Set Method
+        {} Js Map Method
+        {} Js weakSet & weakMap method 
 
-**Thoughts**: 
+    Built:
+        {} Practiced JS Set & Map Method & learned their use cases 
+        {} Couldn't get the time to work on the project
 
-**Link(s) to work**: []()
+**Thoughts**: Tomorrow will learn about JS typeof operator
+
+**Link(s) to work**: 
+    [Twitter](https://twitter.com/arbaiv/status/1572624032318771202?s=20&t=_xmBvvuoy5ZUG6-_oLhHYg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6978389721450250240-Wi2J?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 8: September 22, 2022
