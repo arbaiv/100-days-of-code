@@ -101,13 +101,50 @@
 ### Day 8: September 22, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} JS typeof operator
+        {} JS Arrow Function
+
+    Built:
+        {} Figured out the design for the Notification Page Challenge by frontend mentor
+        {} Added variables and utilities to the project
+
+**Thoughts**: Tomorrow need to add the layout of the project.
+
+**Link(s) to work**: 
+    [Notification Page](https://github.com/arbaiv/notification-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1572979123596980225?s=20&t=nv1-uwMilZM28SEGcLujpA)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6978744856919605248-a4ka?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 9: September 23, 2022
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
 **Link(s) to work**: []()
 
 
-### Day 9: September 23, 2022
+### Day 10: September 24, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 11: September 25, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 12: September 26, 2022
 
 **Today's Progress**: 
 
