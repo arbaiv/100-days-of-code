@@ -120,10 +120,20 @@
 ### Day 9: September 23, 2022
 
 **Today's Progress**: 
+        Learned:
+        {} JS Arrow Function
+        {} How this keyword works differently inside of the arrow function
 
-**Thoughts**: 
+    Built:
+        {} Practiced JS Arrow Function
 
-**Link(s) to work**: []()
+**Thoughts**: The main reason to use the JS arrow function is because of how this keyword works differently inside of it.
+In a regular function, this keyword refers to the object that calls the function.
+But in the arrow function, this keyword always refers to the object that defines the arrow function.
+
+**Link(s) to work**: 
+    [Twitter](https://twitter.com/arbaiv/status/1573343686385373190?s=20&t=RxcJ0njk2Hwzlnpfp1GLLA)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6979110315846180864-nbM9?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 10: September 24, 2022
