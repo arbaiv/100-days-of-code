@@ -138,12 +138,22 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 10: September 24, 2022
 
-**Today's Progress**: 
+**Today's Progress**:
+    Learned:
+        {} The basics of JS Classes
 
-**Thoughts**: 
+    Built:
+        {} Practiced JS Classes
+        {} Build the design for the Notification Page Challenge
+        {} Made the site responsive
 
-**Link(s) to work**: []()
+**Thoughts**: Tomorrow need to work on some design bugs and also add functionality to the site
 
+**Link(s) to work**: 
+    [Notification Page](https://github.com/arbaiv/notification-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1573744903523536896?s=20&t=dfMi9rHC9QEnPjdqHuaIAw)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6979510841616347136-oI64?utm_source=share&utm_medium=member_desktop)
+    
 
 ### Day 11: September 25, 2022
 
