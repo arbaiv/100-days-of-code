@@ -55,6 +55,7 @@
 
 **Link(s) to work**: 
     [Interactive Pricing Component](https://github.com/arbaiv/interactive-pricing-component-challenge)
+    [Live Site URL](https://leafy-cendol-a646b4.netlify.app/)
     [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-pricing-component-with-slider-accessibility-6aCxzUsT_s)
     [Twitter](https://twitter.com/arbaiv/status/1571903959761309696)
     [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_interactive-pricing-component-activity-6977671472261591040-RPrM?utm_source=share&utm_medium=member_desktop)
@@ -158,10 +159,21 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 11: September 25, 2022
 
 **Today's Progress**: 
+    Learned: 
+        {} Practiced JS Arrow functionality through the project
 
-**Thoughts**: 
+    Built:
+        {} Added functionality to the Notification Page Challenge
+        {} Completed the project
 
-**Link(s) to work**: []()
+**Thoughts**: I thought that I could learn to create read & unread functionality through this project and learn some advanced JS concepts, but this project wasn't that challenging. So, I would be taking on some more challenging projects to keep working on my JS.
+
+**Link(s) to work**:     
+    [Notification Page](https://github.com/arbaiv/notification-page-challenge)
+    [Live Site URL](https://astonishing-duckanoo-1f3b98.netlify.app/)
+    [Frontend Mentor](https://www.frontendmentor.io/solutions/notification-page-challenge-with-js-arrow-functionality-RWnpS8g3vL)
+    [Twitter](https://twitter.com/arbaiv/status/1574097121313452032?s=20&t=HMiPIL1DsHYP507Q4hRAyg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6979863157930438656-guqW?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 12: September 26, 2022
