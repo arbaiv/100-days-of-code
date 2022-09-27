@@ -178,6 +178,40 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 12: September 26, 2022
 
+**Today's Progress**:
+    Learned:
+        {} Class Inheritance 
+        {} Class getters and setters
+
+    Built:
+        {} Practiced JS class Syntax
+
+**Thoughts**: Class is a blueprint to create an object, it defines all the different properties and methods that an object can have but it doesn't give any information. The object is the specific version of the class with all the information filled in, such as different values and methods. 
+
+**Link(s) to work**: 
+    [Twitter](https://twitter.com/arbaiv/status/1574429398006374406?s=20&t=2XeQvjY9lONRq6bXiJVMMA)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6980195612424122369-jpX3?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 13: September 27, 2022
+
+**Today's Progress**:  
+    Learned:
+        {} JS Class Static method
+        {} JS Class Inheritance & Extends
+
+    Built:
+        {} Practiced JS class getters and setters method
+
+**Thoughts**: JS Classes have getters and setters that allow you to do something special with the value before returning them or setting them. Getters & setters are used to define methods on a class, which are then used as if they were properties.
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1574806876013080576?s=20&t=O8g-XQRrUbuQUQ0OTha4Yw)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6980573987277869058-Zq8g?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 14: September 28, 2022
+
 **Today's Progress**: 
 
 **Thoughts**: 
