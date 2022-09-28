@@ -213,6 +213,56 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 14: September 28, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} Polymorphism in JS class
+        {} Learned the use cases of JS class
+        {} Completed learning JS class
+
+    Built:
+        {} Practiced JS class method by building an interactive element
+
+**Thoughts**: 
+    Class is a blueprint to create an object. It defines all the different properties & methods that an object can have but it doesn't give any data or information. The object is the specific version of the class with all the information filled in, such as different values and methods. 
+
+    Class getters & setters are used to define methods on a class, which are then used if the ate properties. Essentially, they look like properties but they are methods of that class. 
+
+    The Extend Keyword allow you to achieve the concept of inheritance in JS class. It's used when you have a generic class and you want to create a new child class of that generic one while maintaining its features and behaviour but with extra controls.
+
+**Link(s) to work**: 
+    [Twitter](https://twitter.com/arbaiv/status/1575149660154777600?s=20&t=rdWUaaogal8AXtKZs6wK5A)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6980916365742276609-SkJA?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 15: September 29, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 16: September 30, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 17: October 01, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
+
+
+### Day 18: October 02, 2022
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
