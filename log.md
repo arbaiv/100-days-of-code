@@ -236,10 +236,29 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 15: September 29, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} JS Modules
+        {} Difference between modules & standard scripts
+        {} JS import & export
+        {} Renaming import & export
+        {} Creating a module object
+        {} Modules & Classes
+    
+    Built:
+        {} Practiced import & export through importing a JS Class from a module
 
 **Thoughts**: 
+    JS Modules allow you to break up your code into separate files. It makes it easier to maintain the codebase. It relies on the import & export statements. 
+    Working with multiple modules can create naming conflicts. 
+    To solve the naming conflict issues: 
+        1) You can rename import & export by assigning a new name to the features
+        2) Creating a module object
+        3) By aggregating modules
+        4) export and import classes
 
-**Link(s) to work**: []()
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1575523173248151552?s=20&t=3V3Vu1bHNy6WlHMR3eVORA)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6981288830926516225-Ushr?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 16: September 30, 2022
