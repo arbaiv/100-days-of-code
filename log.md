@@ -264,10 +264,17 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 16: September 30, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} JS Dataset web API
+        {} Gone through some A11Y documentation on how to make any interactive elements accessible
+        {} Revised all of the JS concepts that I learned over the week
 
 **Thoughts**: 
+    Now, I am looking for a challenging project to put all of the things that I learned so far about es6 to the test. 
 
-**Link(s) to work**: []()
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1575903743207669761?s=20&t=AsCyYS8uscduAj2ya-2xNg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6981670249007915008-tEiz?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 17: October 01, 2022
