@@ -280,10 +280,29 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 17: October 01, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} JS Object Prototype
+        {} JS Iterables & Symbol.iterator function
+        {} Destructuring Objects
+        {} Object Literals
+        {} Destructuring Arrays
 
-**Thoughts**: 
+    Built:
+        {} Practised creating custom iterable objects
 
-**Link(s) to work**: []()
+**Thoughts**:  
+    JS Object Prototype:
+    You can add properties & methods to Object constructor functions by using the JS Prototype property.
+
+    JS Iterables:
+    A JS iterable is an object that has the Symbol.iterator which returns the next() function. The nest() function then returns an object with two properties: value & done.
+
+    Destructuring Objects & Arrays:
+    Destructuring is a JavaScript expression that unpacks properties from objects & values from arrays, into distinct variables.
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1576248439741902849?s=20&t=hXRPik9l81AN66VQCQShGg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6982017109409095680-rxSI?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 18: October 02, 2022
