@@ -308,7 +308,65 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 18: October 02, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} JS function default parameters
+        {} JS function arguments object
+        {} call() & apply() method 
+        {} bind() method
+
+**Thoughts**:   
+    You can add default values to the parameter in function declarations.
+
+    JS functions have a built-in object called the arguments object. It contains an array of the arguments when the function was called.
+
+    call() & apply() method allows an object to use a method from another object. The difference between them is: the call() method takes arguments separately while the apply() method takes arguments as an array. 
+
+    bind() method lets an object borrow a method from another object.
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1576612379361959938?s=20&t=SjA_UGvdVPOiyOUx7bgj4g)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6982380941092560896-INQj?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 19: October 03, 2022
+
+**Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: []()
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 20: October 04, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 21: October 05, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 22: October 06, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
