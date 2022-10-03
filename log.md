@@ -331,12 +331,15 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 19: October 03, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} JS Closures
 
 **Thoughts**: 
+    Couldn't focus that much on studying today. But managed to learn the basics of JS Closures. Need to spend more time learning and understanding the concept 🙌
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Twitter](https://twitter.com/arbaiv/status/1577037716650627074?s=20&t=s8MM1OAFWPJLc1hBfy-f9A)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6982803563613753344-gVvF?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 20: October 04, 2022
