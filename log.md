@@ -345,12 +345,27 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 20: October 04, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} In-depth explanations on JS Closures
+        {} Lexical Scoping
+        {} Learned to Create counter using JS Closures
+
+    Built:
+        {} Practised JS closures
+        {} Created counter using closures
 
 **Thoughts**: 
+    Notes: 
+        JS Closures are functions that can access values outside of their own curly braces using Lexical scoping. So basically it gives you access to an outer function’s scope from an inner function.
+
+    Resources:
+        {} https://www.w3schools.com/js/js_function_closures.asp
+        {} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+        {} https://www.youtube.com/watch?v=3a0I8ICR1Vg&ab_channel=WebDevSimplified
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
+    [Twitter](https://twitter.com/arbaiv/status/1577424957914894338?s=20&t=YAD0LnXF0Z5DQw0i9-w5gQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6983189732247691264-PBk4?utm_source=share&utm_medium=member_desktop)    
 
 
 ### Day 21: October 05, 2022
