@@ -401,12 +401,21 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 22: October 06, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} Revised all of the JS concept that I learned over the last 22 days
+
+    Built:
+        {} Started the crowdfunding product page challenge by frontend mentor
 
 **Thoughts**: 
+    Right now, I need to build real-life projects to improve what I have learnt and keep advancing my JS skills.
+    So, I have started the Crowdfunding Product Page challenge by Frontend Mentor today. 
+    I will be working on this project in the upcoming days and also focus on learning JS Promises, Async & Await.
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1578138205932916736?s=20&t=sbOzcAx7sMwBR1MUvgKPXw)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6983903833013854208-2zVA?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 23: October 07, 2022
