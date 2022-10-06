@@ -370,6 +370,36 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 21: October 05, 2022
 
+**Today's Progress**:
+    Learned:
+        {} JS Spread Operator
+        {} JS Rest Operator
+        {} JS Trailing Commas
+
+    Built:
+        {} Practised spread and rest operator uses
+
+**Thoughts**:
+    Notes:
+        JS Spread operator allows an iterable to expand in places where arguments are expected. It is mainly used in the variable array where more values are expected. It allows to obtain a list of parameters from an array. It can be used to copy & expanding arrays. It also works with objects.
+
+        JS Rest Operator allows a function to accept an indefinite number of arguments as an array. Only the last parameter of the function can be a rest parameter and there can be only one rest parameter in a function definition.
+
+    Learning resources:
+        {} Spread Operator: 
+            1) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax 
+            2) https://www.geeksforgeeks.org/javascript-spread-operator/
+        {} Rest Operator: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+        {} Trailing Commas: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Trailing_commas
+
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1577790963233488897?s=20&t=sDNVAds0QMgrpuoKw-i2Ag)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6983557553125216256-kSdz?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 22: October 06, 2022
+
 **Today's Progress**: 
 
 **Thoughts**: 
@@ -379,7 +409,40 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 22: October 06, 2022
+### Day 23: October 07, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 24: October 08, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 25: October 09, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 25: October 10, 2022
 
 **Today's Progress**: 
 
