@@ -420,7 +420,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 23: October 07, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Add 1 day after 100 days.
 
 **Thoughts**: 
 
@@ -429,18 +429,23 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 24: October 08, 2022
+### Day 23: October 08, 2022
 
 **Today's Progress**: 
+    Built:
+        {} Figured out the design for the Crowdfunding Landing Page Challenge
+        {} Added all the variables and created utility classes.
 
 **Thoughts**: 
+    I couldn't code yesterday due to being unwell. But back at it today by starting with this project ✨
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1578779602960670721?s=20&t=k_Kg3-qt4FSVZ53tvPWp7A)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6984545037279797248-ndlj?utm_source=share&utm_medium=member_desktop)
 
 
-### Day 25: October 09, 2022
+### Day 24: October 09, 2022
 
 **Today's Progress**: 
 
@@ -452,6 +457,61 @@ But in the arrow function, this keyword always refers to the object that defines
 
 
 ### Day 25: October 10, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 26: October 11, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 27: October 12, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 28: October 13, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 29: October 13, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 30: October 14, 2022
 
 **Today's Progress**: 
 
