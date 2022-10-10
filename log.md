@@ -463,13 +463,20 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 25: October 10, 2022
 
-**Today's Progress**: 
+**Today's Progress**:  
+    Built:
+        {} Worked on the Crowdfunding Product page 
+        {} Added the first article to the page
+        {} Fixed some bugs in the mobile navigation
 
 **Thoughts**: 
+    The mobile navigation bug was causing because of the position absolute with the transform property. 
+    So to remove it, used position static with top/right properties.
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1579580319262715904?s=20&t=wNDCq2mGNC5H2-Ew9d_qsw)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6985346211805364224-zgyT?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 26: October 11, 2022
