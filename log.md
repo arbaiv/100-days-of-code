@@ -481,13 +481,19 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 26: October 11, 2022
 
-**Today's Progress**: 
+**Today's Progress**:  
+    Built:
+        {} Added all the articles for the Crowdfunding Product Page
+        {} Completed the main content section of the page
+        {} Basic design of the page is complete and made it responsive
 
 **Thoughts**: 
+    Still, a lot of work needs to be done for this project. Going to add Modal windows and JS functionalities next. 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1579911073922437120?s=20&t=CP0M4pk0cCM5hW1LZeK5DQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6985676447642255360-t0C2?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 27: October 12, 2022
