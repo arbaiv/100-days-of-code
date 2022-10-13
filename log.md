@@ -514,12 +514,18 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 28: October 13, 2022
 
 **Today's Progress**: 
+    Built:
+        {} Worked on the Crowdfunding Product Page
+        {} Figured out the modal window design for the project
+        {} Learned about the <dialog> HTML element 
+        {} Looked at different JS plugins to build Modals with accessibility 
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1580596769259687936?s=20&t=LNOYWqU1DMU_4bjLKN9dWQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_github-arbaivcrowdfunding-product-page-challenge-activity-6986363106469806081-29IA?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 29: October 13, 2022
