@@ -528,7 +528,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_github-arbaivcrowdfunding-product-page-challenge-activity-6986363106469806081-29IA?utm_source=share&utm_medium=member_desktop)
 
 
-### Day 29: October 13, 2022
+### Day 29: October 14, 2022
 
 **Today's Progress**: 
     Learned:
@@ -550,7 +550,99 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-100devs-javascript-activity-6986731354138820608-_XKG?utm_source=share&utm_medium=member_desktop)
 
 
-### Day 30: October 14, 2022
+### Day 30: October 15, 2022
+
+**Today's Progress**: 
+    Built:
+        {} Build the main modal of the page
+        {} Added functionality and accessibility to the modal
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1581789862574710785?s=20&t=EX1reeh1AUta6JSfe2-1qQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6987556804859752449-9YfV?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 31: October 16, 2022
+
+**Today's Progress**: 
+    Built:
+        {} Made the modal according to the design
+        {} Made the modal responsive
+
+**Thoughts**:
+    Day 30 & 31 posted on social media on the same day.
+    Notes:
+        On day 30, It took me a lot of time to figure out the a11y dialog plugin. I had issues working with importing using their CDN. Later I found that they had issues with their CDN, which caused errors while importing. So, I imported using the local file instead of CDN and it finally worked. 
+
+        On day 31, I made the modal according to the design and made it responsive. 
+        
+        Still, there are a lot of work that needs to be done for this project. Next, I have to add components and JS classes to build the interactive sections. 
+
+**Link(s) to work**:
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1581789862574710785?s=20&t=EX1reeh1AUta6JSfe2-1qQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6987556804859752449-9YfV?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 32: October 17, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 33: October 18, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 34: October 19, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 35: October 20, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 36: October 21, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 37: October 22, 2022
 
 **Today's Progress**: 
 
