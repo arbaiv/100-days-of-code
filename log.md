@@ -531,12 +531,23 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 29: October 13, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} About the ::backdrop pseudo-element in CSS
+        {} How to disable scrolling on Body
+        {} How to create gradient shadows in CSS
+
+    Built:
+        {} Worked on the Crowdfunding Product Page
+        {} Figured out the a11y-dailog script and how to use it to create accessible modal
 
 **Thoughts**: 
+    a11y-dialog is a lightweight yet flexible script to create accessible dialog windows.
+    a11y-dialog documentation: https://a11y-dialog.netlify.app/
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1580965496035618816?s=20&t=6wlqyqJ4TvuwEP7yi0T5Gg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-100devs-javascript-activity-6986731354138820608-_XKG?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 30: October 14, 2022
