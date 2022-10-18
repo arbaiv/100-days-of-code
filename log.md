@@ -590,12 +590,21 @@ But in the arrow function, this keyword always refers to the object that defines
 ### Day 32: October 17, 2022
 
 **Today's Progress**: 
+    Learned:
+        {} About :has() pseudo-class in CSS
+        {} How to remove the scroll bar in number type inputs
+
+    Built:
+        {} Worked on the Crowdfunding Product Page
+        {} Added components to the page
 
 **Thoughts**: 
+    :has() pseudo-class is a game changer. Need to learn more about what can be done with this. 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Twitter](https://twitter.com/arbaiv/status/1582161225336528896?s=20&t=Rpk76erlLgwuFBnxIkD9YQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6987927854437081088-mFBt?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 33: October 18, 2022
