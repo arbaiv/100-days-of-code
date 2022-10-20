@@ -609,36 +609,49 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 33: October 18, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the Crowdfunding Product Page
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Live Site URL](https://genuine-centaur-e9d448.netlify.app/)
+    [Twitter](https://twitter.com/arbaiv/status/1583111223960166402?s=20&t=HoXIu4bCldHdzpkg3HWQhg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6988879073485733889-VDx7?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 34: October 19, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Worked on the Crowdfunding Product Page
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
-
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Live Site URL](https://genuine-centaur-e9d448.netlify.app/)
+    [Twitter](https://twitter.com/arbaiv/status/1583111223960166402?s=20&t=HoXIu4bCldHdzpkg3HWQhg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6988879073485733889-VDx7?utm_source=share&utm_medium=member_desktop)
 
 ### Day 35: October 20, 2022
 
-**Today's Progress**: 
+**Today's Progress**:
+    For the last 3 days, I have been working on the Crowdfunding Product Page challenge. 
+    So, far I have built:
+        {} Completed the modal
+        {} Added all the functionalities 
+        {} Added the validations
+        {} Added animations to the interactive elements
 
 **Thoughts**: 
+    Now, I have to recheck the code and ensure everything is according to design and concept.
+    The one thing I am currently struggling with is creating a button that will save the page in the bookmark. I wasn’t able to find any resources about it. 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
-
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Live Site URL](https://genuine-centaur-e9d448.netlify.app/)
+    [Twitter](https://twitter.com/arbaiv/status/1583111223960166402?s=20&t=HoXIu4bCldHdzpkg3HWQhg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6988879073485733889-VDx7?utm_source=share&utm_medium=member_desktop)
+    
 
 ### Day 36: October 21, 2022
 
