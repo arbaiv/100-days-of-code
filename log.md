@@ -655,6 +655,40 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 36: October 21, 2022
 
+**Today's Progress**: Worked on the Crowdfunding Product Page
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Live Site URL](https://genuine-centaur-e9d448.netlify.app/)
+    [Twitter](https://twitter.com/arbaiv/status/1583839093867225088?s=20&t=Ai0JRw8TLZRiSMIwfJJzgg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6989607335484698624-pjYJ?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 37: October 22, 2022
+
+**Today's Progress**: 
+    Build:
+        {} Completed the Crowdfunding Product Page
+        {} Added closing animations to interactive elements
+        {} Fixed a lot of bugs
+        {} Revised the code & made sure it’s according to the details.
+
+**Thoughts**: 
+    Finally was able to complete the Crowdfunding Product Page challenge by frontend mentor.
+    After learning advance JS Es6 concepts, this project has helped me a lot to improve and implement what I have learned so far.
+
+**Link(s) to work**:
+    [Crowdfunding Product Page](https://github.com/arbaiv/crowdfunding-product-page-challenge)
+    [Live Site URL](https://genuine-centaur-e9d448.netlify.app/)
+    [Twitter](https://twitter.com/arbaiv/status/1583839093867225088?s=20&t=Ai0JRw8TLZRiSMIwfJJzgg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6989607335484698624-pjYJ?utm_source=share&utm_medium=member_desktop)
+    [Frontend Mentor](https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-accessible-modal-and-animation-67BW44t5W3)
+
+
+### Day 38: October 23, 2022
+
 **Today's Progress**: 
 
 **Thoughts**: 
@@ -664,7 +698,84 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 37: October 22, 2022
+### Day 39: October 24, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 40: October 25, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 41: October 26, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 42: October 27, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 43: October 28, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 44: October 29, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 45: October 30, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 46: October 31, 2022
 
 **Today's Progress**: 
 
