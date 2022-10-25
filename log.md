@@ -689,7 +689,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 38: October 23, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Missed because of my area being hit by a Cyclone.
 
 **Thoughts**: 
 
@@ -700,7 +700,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 39: October 24, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Missed because of my area being hit by a Cyclone.
 
 **Thoughts**: 
 
@@ -711,7 +711,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 40: October 25, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Missed because of my area being hit by a Cyclone.
 
 **Thoughts**: 
 
