@@ -720,7 +720,48 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 41: October 26, 2022
+
+### Day 38: October 26, 2022
+
+**Today's Progress**: Posted on day 39.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1585490548097355776?s=20&t=u_NYmzdEKZkLN9TLArIrsw)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6991256105083420673-CA7P?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 39: October 27, 2022
+
+**Today's Progress**:  
+    Learned:
+        {} Revised some JS concepts 
+        {} Learned JS Async & Callbacks
+
+    Built:
+        {} Started my first-ever client project 🤩
+
+**Thoughts**:
+    Currently, my schedule is packed with work and projects, so will not be able to focus on studying that much.
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1585490548097355776?s=20&t=u_NYmzdEKZkLN9TLArIrsw)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6991256105083420673-CA7P?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 40: October 28, 2022
+
+**Today's Progress**:
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 41: October 29, 2022
 
 **Today's Progress**: 
 
@@ -731,7 +772,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 42: October 27, 2022
+### Day 42: October 30, 2022
 
 **Today's Progress**: 
 
@@ -742,7 +783,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 43: October 28, 2022
+### Day 43: October 31, 2022
 
 **Today's Progress**: 
 
@@ -753,7 +794,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 44: October 29, 2022
+### Day 44: November 01, 2022
 
 **Today's Progress**: 
 
@@ -764,7 +805,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 45: October 30, 2022
+### Day 45: November 02, 2022
 
 **Today's Progress**: 
 
@@ -775,7 +816,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()
 
 
-### Day 46: October 31, 2022
+### Day 46: November 03, 2022
 
 **Today's Progress**: 
 
