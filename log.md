@@ -740,7 +740,7 @@ But in the arrow function, this keyword always refers to the object that defines
         {} Learned JS Async & Callbacks
 
     Built:
-        {} Started my first-ever client project 🤩
+        {} Started my first-ever client project
 
 **Thoughts**:
     Currently, my schedule is packed with work and projects, so will not be able to focus on studying that much.
@@ -752,47 +752,59 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 40: October 28, 2022
 
-**Today's Progress**:
+**Today's Progress**:   
+    Learned:
+        {} How to animate on scrolling
+
+    Built:
+        {} Worked on the Project
+        {} Completed the research for the design
+        {} Completed the discovery phase of the project
+        {} Built the basic wireframe design of the project
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Twitter](https://twitter.com/arbaiv/status/1586022429985415169?s=20&t=AqMXYEmdE1qL6VK0hWL2Iw)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6991788186205069312-Uouu?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 41: October 29, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Posted on 43.
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Twitter](https://twitter.com/arbaiv/status/1587099166244687872?s=20&t=m99ZjVZ23HmOe1kSw5L_3Q)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6992864465725620224-R3zD?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 42: October 30, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Posted on 43.
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Twitter](https://twitter.com/arbaiv/status/1587099166244687872?s=20&t=m99ZjVZ23HmOe1kSw5L_3Q)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6992864465725620224-R3zD?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 43: October 31, 2022
 
-**Today's Progress**: 
+**Today's Progress**:  
+    I have been busy working on a project for the last few days. This is the progress so far:
+        {} Worked on the Project
+        {} Completed the wireframe for both Desktop & Mobile
+        {} Completed the UI Design for the both Desktop & Mobile 
+        {} Build the design for the components
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
-
+    [Twitter](https://twitter.com/arbaiv/status/1587099166244687872?s=20&t=m99ZjVZ23HmOe1kSw5L_3Q)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6992864465725620224-R3zD?utm_source=share&utm_medium=member_desktop)
 
 ### Day 44: November 01, 2022
 
