@@ -806,26 +806,29 @@ But in the arrow function, this keyword always refers to the object that defines
     [Twitter](https://twitter.com/arbaiv/status/1587099166244687872?s=20&t=m99ZjVZ23HmOe1kSw5L_3Q)
     [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6992864465725620224-R3zD?utm_source=share&utm_medium=member_desktop)
 
+
 ### Day 44: November 01, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Posted on Day 45.
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Twitter](https://twitter.com/arbaiv/status/1587855944498614272?s=20&t=g-A3ISoJSVTDkPzkUgk1eg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6993621900216213505-g7UZ?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 45: November 02, 2022
 
-**Today's Progress**: 
+**Today's Progress**:
+    I was trying to learn JS Promises for the last 2 days. For some reason, I am not quite getting it yet. 
 
 **Thoughts**: 
+    Need to spend more time understanding the docs and practice it in projects to fully learn the concept 🙌
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
+    [Twitter](https://twitter.com/arbaiv/status/1587855944498614272?s=20&t=g-A3ISoJSVTDkPzkUgk1eg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6993621900216213505-g7UZ?utm_source=share&utm_medium=member_desktop)
 
 
 ### Day 46: November 03, 2022
