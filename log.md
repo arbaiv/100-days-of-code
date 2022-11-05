@@ -833,6 +833,54 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 46: November 03, 2022
 
+**Today's Progress**: Posted on day 48.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1588919847312031749?s=20&t=g-A3ISoJSVTDkPzkUgk1eg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6994685563140259840-nOI3?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 47: November 04, 2022
+
+**Today's Progress**: Posted on day 48.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1588919847312031749?s=20&t=g-A3ISoJSVTDkPzkUgk1eg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6994685563140259840-nOI3?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 48: November 05, 2022
+
+**Today's Progress**: 
+    Finally, I got the basics of Promises. 
+
+    A promise is an object representing the eventual success or failure of an asynchronous operation. It is like a real-life promise, where you have to make a promise and based on its completion it has results. For success, it's resolved and for failure, it’s rejected. 
+
+**Thoughts**: 
+    Still, I have a lot to go through in the documentation. I want to focus more time on learning Promises. 
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1588919847312031749?s=20&t=g-A3ISoJSVTDkPzkUgk1eg)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6994685563140259840-nOI3?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 49: November 06, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()
+
+
+### Day 50: November 07, 2022
+
 **Today's Progress**: 
 
 **Thoughts**: 
