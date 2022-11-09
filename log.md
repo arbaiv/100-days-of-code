@@ -870,17 +870,66 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 49: November 06, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Posted on Day 52.
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()
-
+    [Twitter](https://twitter.com/arbaiv/status/1590343955019104259?s=20&t=8ENzq4WID7R40IA-ovRYhQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-javascript-frontend-activity-6996109655735222274-lajI?utm_source=share&utm_medium=member_desktop)
 
 ### Day 50: November 07, 2022
 
+**Today's Progress**: Posted on Day 52.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1590343955019104259?s=20&t=8ENzq4WID7R40IA-ovRYhQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-javascript-frontend-activity-6996109655735222274-lajI?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 51: November 08, 2022
+
+**Today's Progress**: Posted on Day 52.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1590343955019104259?s=20&t=8ENzq4WID7R40IA-ovRYhQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-javascript-frontend-activity-6996109655735222274-lajI?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 52: November 09, 2022
+
+**Today's Progress**: 
+    For the past few days, I was struggling with the concept of promises in JS. After a week of learning, reading docs, watching videos and practising with the code, I finally managed to learn Promises.
+
+**Thoughts**:   
+    Notes:
+    A promise is an object representing the eventual success or failure of an asynchronous operation.
+    The Promise() constructor is used to create a Promise object. It is primarily used to wrap functions that do not already support promise syntax.
+    Syntax:
+    new Promise (executor)
+
+    The executor is a function to be executed by the constructor. It receives two functions as parameters: resolve & reject.
+    The resolve & reject function is called inside the constructor to set the Promise state to either fulfilled or rejected and also to return value (if the promise is fulfilled/resolved) & error (if the promise failed) to the promise.
+    The value then can be accessed by the next subsequent then() method and the error by the catch() method.
+    Multiple then() methods can be chained together with each of them returning a value.
+
+    Promise has static methods:
+    Promise.resolve(), Promise.reject(), Promise.all(), Promise.race()
+
+    There is a lot more to Promise to completely understand it.
+    Next, going to learn Async & Await.
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1590343955019104259?s=20&t=8ENzq4WID7R40IA-ovRYhQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-javascript-frontend-activity-6996109655735222274-lajI?utm_source=share&utm_medium=member_desktop)
+
+
+### Day 53: November 10, 2022
+
 **Today's Progress**: 
 
 **Thoughts**: 
@@ -888,3 +937,102 @@ But in the arrow function, this keyword always refers to the object that defines
 **Link(s) to work**:
     [Twitter]()
     [LinkedIn]()
+
+
+### Day 54: November 11, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 55: November 12, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 56: November 13, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 57: November 14, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 58: November 15, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 59: November 16, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 60: November 17, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 61: November 18, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 62: November 19, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
