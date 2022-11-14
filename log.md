@@ -930,7 +930,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 53: November 10, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Took a break.
 
 **Thoughts**: 
 
@@ -941,7 +941,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 54: November 11, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Took a break.
 
 **Thoughts**: 
 
@@ -952,7 +952,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 55: November 12, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Took a break.
 
 **Thoughts**: 
 
@@ -963,7 +963,7 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 56: November 13, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Day Missed. Took a break.
 
 **Thoughts**: 
 
@@ -972,40 +972,30 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()    
 
 
-### Day 57: November 14, 2022
+### Day 53: November 14, 2022
 
 **Today's Progress**: 
+    Revised JS Callbacks & Promises.
+    Learned JS async & await function.
 
-**Thoughts**: 
+**Thoughts**:           
+    The async keyword before a function makes it return a promise.
+    It enables you to write asynchronous, promise-based behaviour more cleanly.
+    The await keyword can only be called inside of the async function, it can be called multiple times.
+    The await function basically stops the execution until its promise settles. Once it's done, it then moves on to the next line.
+    If the promise resolves, the resolved value will be treated as await's returned value.
 
-**Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
+    As I have completed learning the asynchronous concepts of JS, next will be learning the Fetch API.
 
-
-### Day 58: November 15, 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
-
-
-### Day 59: November 16, 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
+    I took a break from studying for the last few days.
+    Breaks are required so that you don't get burned out & fatigued in the long run 🙌
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
+    [Twitter](https://twitter.com/arbaiv/status/1592155478418944000?s=20&t=eJ4u7fAAVf7EEcoLb7QzBQ)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-javascript-frontend-activity-6997921491539431424-wNPX?utm_source=share&utm_medium=member_desktop)
 
 
-### Day 60: November 17, 2022
+### Day 54: November 15, 2022
 
 **Today's Progress**: 
 
@@ -1016,7 +1006,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()    
 
 
-### Day 61: November 18, 2022
+### Day 55: November 16, 2022
 
 **Today's Progress**: 
 
@@ -1027,7 +1017,72 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()    
 
 
-### Day 62: November 19, 2022
+### Day 56: November 17, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 57: November 18, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+### Day 58: November 19, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 59: November 20, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 60: November 21, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 61: November 22, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+    [Twitter]()
+    [LinkedIn]()    
+
+
+### Day 62: November 23, 2022
 
 **Today's Progress**: 
 
