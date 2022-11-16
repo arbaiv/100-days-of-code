@@ -997,24 +997,36 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 54: November 15, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Posted on day 55.
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
-
+    [Twitter](https://twitter.com/arbaiv/status/1592906494089252865?s=20&t=EYzMVhx8Ot0WK_BsG07V4Q)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6998672253357817856-i-6y?utm_source=share&utm_medium=member_desktop)    
 
 ### Day 55: November 16, 2022
 
-**Today's Progress**: 
+**Today's Progress**:   
+    Learned the Fetch API & how to make Get & Post requests with it.
 
 **Thoughts**: 
+    The Fetch API provides an interface for fetching resources. It provides a more powerful feature set than XMLHttpRequest.
+
+    The fetch() method takes a parameter which is the Path/URL from where the data is going to be fetched. 
+    It returns a promise which is resolved when the response object is received. 
+    The response object doesn't contain the data directly instead it contains a representation of the entire HTTP response. 
+    So, to extract the data the json() method is used which returns another promise that resolves with the JSON data.
+
+    The returned promise from the Fetch API doesn't reject for HTTP error status. It is always resolved as soon as the server responds with the header. The only time it rejects is on network failure or if anything prevented the request from completing.
+
+    For Post request, the Fetch API takes a second parameter which contains the init object. This object contains different settings that are used to send Post requests to the server. 
+
+    After learning Fetch, I realised I am not familiar with HTTP Headers. I need to learn more about this next
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
+    [Twitter](https://twitter.com/arbaiv/status/1592906494089252865?s=20&t=EYzMVhx8Ot0WK_BsG07V4Q)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6998672253357817856-i-6y?utm_source=share&utm_medium=member_desktop)    
 
 
 ### Day 56: November 17, 2022
