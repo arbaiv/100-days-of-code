@@ -1029,7 +1029,46 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-6998672253357817856-i-6y?utm_source=share&utm_medium=member_desktop)    
 
 
-### Day 56: November 17, 2022
+### Day 56: December 09, 2022
+
+**Today's Progress**: Posted on Day 57. 
+
+**Thoughts**: 
+    I have been working on my client project for the last couple of weeks. That's why I wasn't able to be active here.
+
+    I have been coding regularly on the project, but I don't want to count that in my 100daysofcode challenge.
+
+    That's why I am starting from day 56 🙌
+    My upcoming targets are to:
+    - learn about HTTP Headers
+    - learn the basics of JS Algorithms & Data Structure through FreeCodeCamp
+    - learn about Web Hosting & Domains  
+
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1601555059845627904?s=20&t=1lgujqjrB27si05Mvx-Gng)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-javascript-frontend-activity-7007320539639812098-047O?utm_source=share&utm_medium=member_desktop)    
+
+
+### Day 57: December 10, 2022
+
+**Today's Progress**: 
+    {} Revised previously learned JS Concepts
+    {} Revised the Fetch API
+    {} Read the documentation on HTTP Headers
+
+**Thoughts**: 
+    Notes:
+        HTTP headers allow the client & the server to transfer information with an HTTP request or response.
+        There are four types of headers: Request headers, Response headers, Representation headers, and Payload headers.
+
+    I will dive deep into this topic as it's necessary to understand the concept of HTTP headers to work with Fetch API. 
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1601555059845627904?s=20&t=1lgujqjrB27si05Mvx-Gng)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-javascript-frontend-activity-7007320539639812098-047O?utm_source=share&utm_medium=member_desktop)    
+
+### Day 58: December 11, 2022
 
 **Today's Progress**: 
 
@@ -1040,17 +1079,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()    
 
 
-### Day 57: November 18, 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
-
-### Day 58: November 19, 2022
+### Day 59: December 12, 2022
 
 **Today's Progress**: 
 
@@ -1061,7 +1090,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()    
 
 
-### Day 59: November 20, 2022
+### Day 60: December 13, 2022
 
 **Today's Progress**: 
 
@@ -1072,7 +1101,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()    
 
 
-### Day 60: November 21, 2022
+### Day 61: December 14, 2022
 
 **Today's Progress**: 
 
@@ -1083,18 +1112,7 @@ But in the arrow function, this keyword always refers to the object that defines
     [LinkedIn]()    
 
 
-### Day 61: November 22, 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
-
-
-### Day 62: November 23, 2022
+### Day 62: December 15, 2022
 
 **Today's Progress**: 
 
