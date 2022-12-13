@@ -1070,36 +1070,51 @@ But in the arrow function, this keyword always refers to the object that defines
 
 ### Day 58: December 11, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Posted on day 60.
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
+    [Twitter](https://twitter.com/arbaiv/status/1602655850211909633?s=20&t=LK4JQhwqnf3ly4O8XJk_TA)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-7008421597363527680-EiDE?utm_source=share&utm_medium=member_desktop)    
 
 
 ### Day 59: December 12, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Posted on day 60.
 
 **Thoughts**: 
 
 **Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
+    [Twitter](https://twitter.com/arbaiv/status/1602655850211909633?s=20&t=LK4JQhwqnf3ly4O8XJk_TA)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-7008421597363527680-EiDE?utm_source=share&utm_medium=member_desktop)      
 
 
 ### Day 60: December 13, 2022
 
 **Today's Progress**: 
+    Completed learning the basics about HTTP Headers and what each headers field does.
 
 **Thoughts**: 
 
-**Link(s) to work**:
-    [Twitter]()
-    [LinkedIn]()    
+    Each HTTP request or response has a header and a body.
+    There are 3 types of headers in particular:
+    - General Headers
+    - Response Headers
+    - Request Headers
 
+    General headers contain fields like the Request URL, Request Method, and Status Code.
+    Response headers contain fields like the Server, Content-Type, and Content-Length.
+    Request headers contain fields like the Cookies, variants of Accept fields, Content-Type, Authorization and User Agent.
+
+    It's the end of the year, so my schedule is full of a lot of IRL work.
+    And also working on more frontend projects.
+    So, it's hard to focus much time on learning.
+    But still working on gaining more knowledge & improving my skills daily.
+
+**Link(s) to work**:
+    [Twitter](https://twitter.com/arbaiv/status/1602655850211909633?s=20&t=LK4JQhwqnf3ly4O8XJk_TA)
+    [LinkedIn](https://www.linkedin.com/posts/abdur-rahaman-arb4_100daysofcode-frontend-javascript-activity-7008421597363527680-EiDE?utm_source=share&utm_medium=member_desktop)    
 
 ### Day 61: December 14, 2022
 
